@@ -1,0 +1,46 @@
+/* Facebook Plus — Bahasa Indonesia. Auto-generated from test/gen_strings.py.
+   Keep translations in sync via that script; keys match every other .lproj. */
+
+"settings.subtitle" = "Preferensi Tweak";
+"row.metaplus.title" = "Aktifkan Facebook Plus";
+"row.metaplus.desc" = "Pratinjau semua fitur berbayar tanpa berlangganan.";
+"row.noads.title" = "Hapus Iklan";
+"row.norecs.title" = "Hapus Rekomendasi";
+"row.norecs.desc" = "Menyembunyikan postingan yang disarankan algoritma.";
+"row.nopymk.title" = "Hapus «Orang yang Mungkin Anda Kenal»";
+"row.noreels.title" = "Hapus Korsel Reels";
+"row.nothreads.title" = "Hapus Promo Threads";
+"row.nothreads.desc" = "Menyembunyikan kartu «temukan threads baru».";
+"row.nogroups.title" = "Hapus Saran Grup";
+"row.nogroups.desc" = "Menyembunyikan unit «grup untuk diikuti».";
+"row.feedlike.title" = "Konfirmasi Suka Postingan";
+"row.feedlike.desc" = "Bertanya sebelum suka dikirim.";
+"row.reelslike.title" = "Konfirmasi Suka Reels";
+"row.anonstories.title" = "Lihat Story secara Anonim";
+"row.anonstories.desc" = "Lihat story tanpa mengirim tanda telah dibaca.";
+"row.noautonext.title" = "Matikan Lanjut Otomatis";
+"row.nostorypymk.title" = "Sembunyikan Saran Story";
+"row.nostorypymk.desc" = "Menghapus «orang yang mungkin Anda kenal» dari baris story.";
+"row.oled.title" = "Mode Gelap OLED";
+"row.oled.desc" = "Membuat seluruh aplikasi benar-benar hitam.";
+"row.appicon.title" = "Ikon Aplikasi";
+"row.appicon.desc" = "Pilih ikon aplikasi alternatif.";
+"row.autoclear.title" = "Bersihkan Cache saat Dibuka";
+"row.clearcache.title" = "Bersihkan Cache Sekarang";
+"row.diagnostics.title" = "Diagnostik";
+"row.diagnostics.desc" = "Lihat fitur mana yang aktif.";
+"row.welcome.title" = "Tampilkan Layar Selamat Datang";
+"row.reset.title" = "Setel Ulang Semua Pengaturan";
+"row.language.title" = "Bahasa";
+"footer.by" = "Facebook Plus · oleh ";
+"reset.title" = "Setel Ulang Semua Pengaturan";
+"reset.message" = "Setiap opsi kembali ke default. Tindakan ini tidak dapat dibatalkan.";
+"reset.confirm" = "Setel Ulang";
+"toast.settingsReset" = "Pengaturan disetel ulang";
+"toast.cacheCleared" = "Cache dibersihkan";
+"appicon.default" = "Default";
+"appicon.applied" = "Ikon %@ diterapkan";
+"appicon.error.unsupported" = "Aplikasi ini tidak mengizinkan penggantian ikon.";
+"appicon.error.failed" = "Ikon tidak dapat diganti.";
+"common.cancel" = "Batal";
+"common.ok" = "OK";

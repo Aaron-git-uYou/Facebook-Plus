@@ -1,0 +1,46 @@
+/* Facebook Plus — Deutsch. Auto-generated from test/gen_strings.py.
+   Keep translations in sync via that script; keys match every other .lproj. */
+
+"settings.subtitle" = "Tweak-Einstellungen";
+"row.metaplus.title" = "Facebook Plus aktivieren";
+"row.metaplus.desc" = "Alle kostenpflichtigen Funktionen ohne Abo testen.";
+"row.noads.title" = "Werbung entfernen";
+"row.norecs.title" = "Empfehlungen entfernen";
+"row.norecs.desc" = "Blendet algorithmisch vorgeschlagene Beiträge aus.";
+"row.nopymk.title" = "„Personen, die du kennst“ entfernen";
+"row.noreels.title" = "Reels-Karussell entfernen";
+"row.nothreads.title" = "Threads-Werbung entfernen";
+"row.nothreads.desc" = "Blendet die Karte „Neue Threads entdecken“ aus.";
+"row.nogroups.title" = "Gruppenvorschläge entfernen";
+"row.nogroups.desc" = "Blendet die Blöcke „Gruppen für dich“ aus.";
+"row.feedlike.title" = "„Gefällt mir“ bestätigen";
+"row.feedlike.desc" = "Fragt nach, bevor ein „Gefällt mir“ gesendet wird.";
+"row.reelslike.title" = "Reels-„Gefällt mir“ bestätigen";
+"row.anonstories.title" = "Storys anonym ansehen";
+"row.anonstories.desc" = "Storys ansehen, ohne eine Lesebestätigung zu senden.";
+"row.noautonext.title" = "Automatisches Weiterblättern deaktivieren";
+"row.nostorypymk.title" = "Story-Vorschläge ausblenden";
+"row.nostorypymk.desc" = "Entfernt „Personen, die du kennst“ aus der Story-Leiste.";
+"row.oled.title" = "OLED-Dunkelmodus";
+"row.oled.desc" = "Macht die gesamte App komplett schwarz.";
+"row.appicon.title" = "App-Symbol";
+"row.appicon.desc" = "Ein alternatives App-Symbol wählen.";
+"row.autoclear.title" = "Cache beim Start leeren";
+"row.clearcache.title" = "Cache jetzt leeren";
+"row.diagnostics.title" = "Diagnose";
+"row.diagnostics.desc" = "Sehen, welche Funktionen aktiv sind.";
+"row.welcome.title" = "Willkommensbildschirm anzeigen";
+"row.reset.title" = "Alle Einstellungen zurücksetzen";
+"row.language.title" = "Sprache";
+"footer.by" = "Facebook Plus · von ";
+"reset.title" = "Alle Einstellungen zurücksetzen";
+"reset.message" = "Jede Option wird auf den Standard zurückgesetzt. Dies kann nicht rückgängig gemacht werden.";
+"reset.confirm" = "Zurücksetzen";
+"toast.settingsReset" = "Einstellungen zurückgesetzt";
+"toast.cacheCleared" = "Cache geleert";
+"appicon.default" = "Standard";
+"appicon.applied" = "Symbol „%@“ übernommen";
+"appicon.error.unsupported" = "Diese App erlaubt keine Änderung des Symbols.";
+"appicon.error.failed" = "Das Symbol konnte nicht geändert werden.";
+"common.cancel" = "Abbrechen";
+"common.ok" = "OK";

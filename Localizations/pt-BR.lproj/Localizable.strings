@@ -1,0 +1,46 @@
+/* Facebook Plus — Português (Brasil). Auto-generated from test/gen_strings.py.
+   Keep translations in sync via that script; keys match every other .lproj. */
+
+"settings.subtitle" = "Preferências do tweak";
+"row.metaplus.title" = "Ativar Facebook Plus";
+"row.metaplus.desc" = "Veja todos os recursos pagos sem assinar.";
+"row.noads.title" = "Remover anúncios";
+"row.norecs.title" = "Remover recomendações";
+"row.norecs.desc" = "Oculta as publicações sugeridas pelo algoritmo.";
+"row.nopymk.title" = "Remover «Pessoas que você talvez conheça»";
+"row.noreels.title" = "Remover o carrossel de Reels";
+"row.nothreads.title" = "Remover a promoção do Threads";
+"row.nothreads.desc" = "Oculta o cartão «descobrir novos threads».";
+"row.nogroups.title" = "Remover sugestões de grupos";
+"row.nogroups.desc" = "Oculta os blocos «grupos para participar».";
+"row.feedlike.title" = "Confirmar curtidas";
+"row.feedlike.desc" = "Pergunta antes de enviar uma curtida.";
+"row.reelslike.title" = "Confirmar curtidas nos Reels";
+"row.anonstories.title" = "Ver stories anonimamente";
+"row.anonstories.desc" = "Ver stories sem enviar confirmação de leitura.";
+"row.noautonext.title" = "Desativar avanço automático";
+"row.nostorypymk.title" = "Ocultar sugestões de stories";
+"row.nostorypymk.desc" = "Remove «pessoas que você talvez conheça» da barra de stories.";
+"row.oled.title" = "Modo escuro OLED";
+"row.oled.desc" = "Deixa o app todo preto de verdade.";
+"row.appicon.title" = "Ícone do app";
+"row.appicon.desc" = "Escolher um ícone de app alternativo.";
+"row.autoclear.title" = "Limpar cache ao abrir";
+"row.clearcache.title" = "Limpar cache agora";
+"row.diagnostics.title" = "Diagnóstico";
+"row.diagnostics.desc" = "Ver quais recursos estão ativos.";
+"row.welcome.title" = "Mostrar tela de boas-vindas";
+"row.reset.title" = "Redefinir todas as configurações";
+"row.language.title" = "Idioma";
+"footer.by" = "Facebook Plus · por ";
+"reset.title" = "Redefinir todas as configurações";
+"reset.message" = "Cada opção volta ao padrão. Isso não pode ser desfeito.";
+"reset.confirm" = "Redefinir";
+"toast.settingsReset" = "Configurações redefinidas";
+"toast.cacheCleared" = "Cache limpo";
+"appicon.default" = "Padrão";
+"appicon.applied" = "Ícone %@ aplicado";
+"appicon.error.unsupported" = "Este app não permite alterar o ícone.";
+"appicon.error.failed" = "Não foi possível alterar o ícone.";
+"common.cancel" = "Cancelar";
+"common.ok" = "OK";

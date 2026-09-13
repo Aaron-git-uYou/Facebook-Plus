@@ -1,0 +1,46 @@
+/* Facebook Plus — Español. Auto-generated from test/gen_strings.py.
+   Keep translations in sync via that script; keys match every other .lproj. */
+
+"settings.subtitle" = "Preferencias del tweak";
+"row.metaplus.title" = "Activar Facebook Plus";
+"row.metaplus.desc" = "Prueba todas las funciones de pago sin suscribirte.";
+"row.noads.title" = "Eliminar anuncios";
+"row.norecs.title" = "Eliminar recomendaciones";
+"row.norecs.desc" = "Oculta las publicaciones sugeridas por el algoritmo.";
+"row.nopymk.title" = "Eliminar «Personas que quizá conozcas»";
+"row.noreels.title" = "Eliminar el carrusel de Reels";
+"row.nothreads.title" = "Eliminar la promo de Threads";
+"row.nothreads.desc" = "Oculta la tarjeta «descubrir nuevos threads».";
+"row.nogroups.title" = "Eliminar sugerencias de grupos";
+"row.nogroups.desc" = "Oculta los bloques «grupos a los que unirte».";
+"row.feedlike.title" = "Confirmar Me gusta";
+"row.feedlike.desc" = "Pregunta antes de enviar un Me gusta.";
+"row.reelslike.title" = "Confirmar Me gusta en Reels";
+"row.anonstories.title" = "Ver historias de forma anónima";
+"row.anonstories.desc" = "Ver historias sin enviar confirmación de lectura.";
+"row.noautonext.title" = "Desactivar avance automático";
+"row.nostorypymk.title" = "Ocultar sugerencias de historias";
+"row.nostorypymk.desc" = "Quita «personas que quizá conozcas» de la barra de historias.";
+"row.oled.title" = "Modo oscuro OLED";
+"row.oled.desc" = "Pone toda la app en negro puro.";
+"row.appicon.title" = "Icono de la app";
+"row.appicon.desc" = "Elegir un icono de app alternativo.";
+"row.autoclear.title" = "Vaciar caché al iniciar";
+"row.clearcache.title" = "Vaciar caché ahora";
+"row.diagnostics.title" = "Diagnóstico";
+"row.diagnostics.desc" = "Ver qué funciones están activas.";
+"row.welcome.title" = "Mostrar pantalla de bienvenida";
+"row.reset.title" = "Restablecer todos los ajustes";
+"row.language.title" = "Idioma";
+"footer.by" = "Facebook Plus · por ";
+"reset.title" = "Restablecer todos los ajustes";
+"reset.message" = "Cada opción vuelve a su valor predeterminado. Esta acción no se puede deshacer.";
+"reset.confirm" = "Restablecer";
+"toast.settingsReset" = "Ajustes restablecidos";
+"toast.cacheCleared" = "Caché vaciada";
+"appicon.default" = "Predeterminado";
+"appicon.applied" = "Icono %@ aplicado";
+"appicon.error.unsupported" = "Esta app no permite cambiar su icono.";
+"appicon.error.failed" = "No se pudo cambiar el icono.";
+"common.cancel" = "Cancelar";
+"common.ok" = "OK";

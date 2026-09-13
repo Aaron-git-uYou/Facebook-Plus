@@ -1,0 +1,46 @@
+/* Facebook Plus — Türkçe. Auto-generated from test/gen_strings.py.
+   Keep translations in sync via that script; keys match every other .lproj. */
+
+"settings.subtitle" = "Tweak Tercihleri";
+"row.metaplus.title" = "Facebook Plus’ı Etkinleştir";
+"row.metaplus.desc" = "Tüm ücretli özellikleri abone olmadan önizle.";
+"row.noads.title" = "Reklamları Kaldır";
+"row.norecs.title" = "Önerileri Kaldır";
+"row.norecs.desc" = "Algoritmanın önerdiği gönderileri gizler.";
+"row.nopymk.title" = "«Tanıyor Olabileceğin Kişiler»i Kaldır";
+"row.noreels.title" = "Reels Şeridini Kaldır";
+"row.nothreads.title" = "Threads Tanıtımını Kaldır";
+"row.nothreads.desc" = "«yeni threads keşfet» kartını gizler.";
+"row.nogroups.title" = "Grup Önerilerini Kaldır";
+"row.nogroups.desc" = "«katılabileceğin gruplar» bölümlerini gizler.";
+"row.feedlike.title" = "Gönderi Beğenilerini Onayla";
+"row.feedlike.desc" = "Beğeni gönderilmeden önce sorar.";
+"row.reelslike.title" = "Reels Beğenilerini Onayla";
+"row.anonstories.title" = "Hikâyeleri Anonim İzle";
+"row.anonstories.desc" = "Okundu bilgisi göndermeden hikâyeleri izle.";
+"row.noautonext.title" = "Otomatik İlerlemeyi Kapat";
+"row.nostorypymk.title" = "Hikâye Önerilerini Gizle";
+"row.nostorypymk.desc" = "Hikâye şeridinden «tanıyor olabileceğin kişiler»i kaldırır.";
+"row.oled.title" = "OLED Karanlık Mod";
+"row.oled.desc" = "Tüm uygulamayı gerçek siyaha çevirir.";
+"row.appicon.title" = "Uygulama Simgesi";
+"row.appicon.desc" = "Alternatif bir uygulama simgesi seç.";
+"row.autoclear.title" = "Açılışta Önbelleği Temizle";
+"row.clearcache.title" = "Önbelleği Şimdi Temizle";
+"row.diagnostics.title" = "Tanılama";
+"row.diagnostics.desc" = "Hangi özelliklerin etkin olduğunu gör.";
+"row.welcome.title" = "Karşılama Ekranını Göster";
+"row.reset.title" = "Tüm Ayarları Sıfırla";
+"row.language.title" = "Dil";
+"footer.by" = "Facebook Plus · geliştiren ";
+"reset.title" = "Tüm Ayarları Sıfırla";
+"reset.message" = "Her seçenek varsayılanına döner. Bu işlem geri alınamaz.";
+"reset.confirm" = "Sıfırla";
+"toast.settingsReset" = "Ayarlar sıfırlandı";
+"toast.cacheCleared" = "Önbellek temizlendi";
+"appicon.default" = "Varsayılan";
+"appicon.applied" = "%@ simgesi uygulandı";
+"appicon.error.unsupported" = "Bu uygulama simgesini değiştirmeye izin vermiyor.";
+"appicon.error.failed" = "Simge değiştirilemedi.";
+"common.cancel" = "İptal";
+"common.ok" = "Tamam";

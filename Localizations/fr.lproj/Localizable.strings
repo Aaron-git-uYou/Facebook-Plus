@@ -1,0 +1,46 @@
+/* Facebook Plus — Français. Auto-generated from test/gen_strings.py.
+   Keep translations in sync via that script; keys match every other .lproj. */
+
+"settings.subtitle" = "Préférences du tweak";
+"row.metaplus.title" = "Activer Facebook Plus";
+"row.metaplus.desc" = "Aperçu de toutes les fonctions payantes sans abonnement.";
+"row.noads.title" = "Supprimer les publicités";
+"row.norecs.title" = "Supprimer les recommandations";
+"row.norecs.desc" = "Masque les publications suggérées par l’algorithme.";
+"row.nopymk.title" = "Masquer « Connaissez-vous ? »";
+"row.noreels.title" = "Supprimer le carrousel Reels";
+"row.nothreads.title" = "Supprimer la promo Threads";
+"row.nothreads.desc" = "Masque la carte « découvrir de nouveaux threads ».";
+"row.nogroups.title" = "Supprimer les suggestions de groupes";
+"row.nogroups.desc" = "Masque les blocs « groupes à rejoindre ».";
+"row.feedlike.title" = "Confirmer les J’aime";
+"row.feedlike.desc" = "Demande avant d’envoyer un J’aime.";
+"row.reelslike.title" = "Confirmer les J’aime des Reels";
+"row.anonstories.title" = "Voir les stories anonymement";
+"row.anonstories.desc" = "Voir les stories sans envoyer d’accusé de lecture.";
+"row.noautonext.title" = "Désactiver l’avance automatique";
+"row.nostorypymk.title" = "Masquer les suggestions de stories";
+"row.nostorypymk.desc" = "Retire « connaissez-vous ? » du bandeau des stories.";
+"row.oled.title" = "Mode sombre OLED";
+"row.oled.desc" = "Rend toute l’app vraiment noire.";
+"row.appicon.title" = "Icône de l’app";
+"row.appicon.desc" = "Choisir une autre icône d’app.";
+"row.autoclear.title" = "Vider le cache au lancement";
+"row.clearcache.title" = "Vider le cache maintenant";
+"row.diagnostics.title" = "Diagnostics";
+"row.diagnostics.desc" = "Voir quelles fonctions sont actives.";
+"row.welcome.title" = "Afficher l’écran d’accueil";
+"row.reset.title" = "Réinitialiser tous les réglages";
+"row.language.title" = "Langue";
+"footer.by" = "Facebook Plus · par ";
+"reset.title" = "Réinitialiser tous les réglages";
+"reset.message" = "Chaque option revient à sa valeur par défaut. Action irréversible.";
+"reset.confirm" = "Réinitialiser";
+"toast.settingsReset" = "Réglages réinitialisés";
+"toast.cacheCleared" = "Cache vidé";
+"appicon.default" = "Défaut";
+"appicon.applied" = "Icône %@ appliquée";
+"appicon.error.unsupported" = "Cette app n’autorise pas le changement d’icône.";
+"appicon.error.failed" = "Impossible de changer l’icône.";
+"common.cancel" = "Annuler";
+"common.ok" = "OK";

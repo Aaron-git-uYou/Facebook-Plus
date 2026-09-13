@@ -1,0 +1,46 @@
+/* Facebook Plus — English. Auto-generated from test/gen_strings.py.
+   Keep translations in sync via that script; keys match every other .lproj. */
+
+"settings.subtitle" = "Tweak Preferences";
+"row.metaplus.title" = "Enable Facebook Plus";
+"row.metaplus.desc" = "Preview every paid feature without subscribing.";
+"row.noads.title" = "Remove Ads";
+"row.norecs.title" = "Remove Recommendations";
+"row.norecs.desc" = "Hides algorithmically suggested posts.";
+"row.nopymk.title" = "Remove People You May Know";
+"row.noreels.title" = "Remove Reels Carousel";
+"row.nothreads.title" = "Remove Threads Promo";
+"row.nothreads.desc" = "Hides the “discover new threads” card.";
+"row.nogroups.title" = "Remove Group Suggestions";
+"row.nogroups.desc" = "Hides the “groups you should join” units.";
+"row.feedlike.title" = "Confirm Post Likes";
+"row.feedlike.desc" = "Asks before a like is sent.";
+"row.reelslike.title" = "Confirm Reels Likes";
+"row.anonstories.title" = "Watch Stories Anonymously";
+"row.anonstories.desc" = "View stories without sending a read receipt.";
+"row.noautonext.title" = "Disable Auto-Advance";
+"row.nostorypymk.title" = "Hide Story Suggestions";
+"row.nostorypymk.desc" = "Removes “people you may know” from the story tray.";
+"row.oled.title" = "OLED Dark Mode";
+"row.oled.desc" = "Turns the whole app true black.";
+"row.appicon.title" = "App Icon";
+"row.appicon.desc" = "Choose an alternate app icon.";
+"row.autoclear.title" = "Clear Cache on Launch";
+"row.clearcache.title" = "Clear Cache Now";
+"row.diagnostics.title" = "Diagnostics";
+"row.diagnostics.desc" = "See which features are active.";
+"row.welcome.title" = "Show Welcome Screen";
+"row.reset.title" = "Reset All Settings";
+"row.language.title" = "Language";
+"footer.by" = "Facebook Plus · by ";
+"reset.title" = "Reset All Settings";
+"reset.message" = "Every option returns to its default. This cannot be undone.";
+"reset.confirm" = "Reset";
+"toast.settingsReset" = "Settings reset";
+"toast.cacheCleared" = "Cache cleared";
+"appicon.default" = "Default";
+"appicon.applied" = "%@ icon applied";
+"appicon.error.unsupported" = "This app does not allow changing its icon.";
+"appicon.error.failed" = "The icon could not be changed.";
+"common.cancel" = "Cancel";
+"common.ok" = "OK";

@@ -1,0 +1,46 @@
+/* Facebook Plus — 한국어. Auto-generated from test/gen_strings.py.
+   Keep translations in sync via that script; keys match every other .lproj. */
+
+"settings.subtitle" = "트윅 환경설정";
+"row.metaplus.title" = "Facebook Plus 사용";
+"row.metaplus.desc" = "모든 유료 기능을 구독 없이 미리 보기.";
+"row.noads.title" = "광고 제거";
+"row.norecs.title" = "추천 게시물 제거";
+"row.norecs.desc" = "알고리즘이 추천한 게시물을 숨깁니다.";
+"row.nopymk.title" = "'알 수도 있는 사람' 제거";
+"row.noreels.title" = "릴스 캐러셀 제거";
+"row.nothreads.title" = "스레드 홍보 제거";
+"row.nothreads.desc" = "'새로운 스레드 둘러보기' 카드를 숨깁니다.";
+"row.nogroups.title" = "그룹 추천 제거";
+"row.nogroups.desc" = "'가입할 만한 그룹' 항목을 숨깁니다.";
+"row.feedlike.title" = "게시물 좋아요 확인";
+"row.feedlike.desc" = "좋아요를 보내기 전에 확인합니다.";
+"row.reelslike.title" = "릴스 좋아요 확인";
+"row.anonstories.title" = "스토리 익명으로 보기";
+"row.anonstories.desc" = "읽음 표시를 보내지 않고 스토리를 봅니다.";
+"row.noautonext.title" = "자동 넘김 끄기";
+"row.nostorypymk.title" = "스토리 추천 숨기기";
+"row.nostorypymk.desc" = "스토리 트레이에서 '알 수도 있는 사람'을 제거합니다.";
+"row.oled.title" = "OLED 다크 모드";
+"row.oled.desc" = "앱 전체를 완전한 검은색으로 만듭니다.";
+"row.appicon.title" = "앱 아이콘";
+"row.appicon.desc" = "다른 앱 아이콘을 선택합니다.";
+"row.autoclear.title" = "실행 시 캐시 지우기";
+"row.clearcache.title" = "지금 캐시 지우기";
+"row.diagnostics.title" = "진단";
+"row.diagnostics.desc" = "어떤 기능이 활성화됐는지 확인합니다.";
+"row.welcome.title" = "시작 화면 표시";
+"row.reset.title" = "모든 설정 초기화";
+"row.language.title" = "언어";
+"footer.by" = "Facebook Plus · 제작 ";
+"reset.title" = "모든 설정 초기화";
+"reset.message" = "모든 옵션이 기본값으로 돌아갑니다. 되돌릴 수 없습니다.";
+"reset.confirm" = "초기화";
+"toast.settingsReset" = "설정을 초기화했습니다";
+"toast.cacheCleared" = "캐시를 지웠습니다";
+"appicon.default" = "기본";
+"appicon.applied" = "%@ 아이콘 적용됨";
+"appicon.error.unsupported" = "이 앱은 아이콘 변경을 지원하지 않습니다.";
+"appicon.error.failed" = "아이콘을 변경할 수 없습니다.";
+"common.cancel" = "취소";
+"common.ok" = "확인";

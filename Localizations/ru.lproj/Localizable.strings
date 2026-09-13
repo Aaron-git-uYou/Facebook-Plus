@@ -1,0 +1,46 @@
+/* Facebook Plus — Русский. Auto-generated from test/gen_strings.py.
+   Keep translations in sync via that script; keys match every other .lproj. */
+
+"settings.subtitle" = "Настройки твика";
+"row.metaplus.title" = "Включить Facebook Plus";
+"row.metaplus.desc" = "Все платные функции для предпросмотра без подписки.";
+"row.noads.title" = "Убрать рекламу";
+"row.norecs.title" = "Убрать рекомендации";
+"row.norecs.desc" = "Скрывает посты, предложенные алгоритмом.";
+"row.nopymk.title" = "Убрать «Возможные друзья»";
+"row.noreels.title" = "Убрать карусель Reels";
+"row.nothreads.title" = "Убрать промо Threads";
+"row.nothreads.desc" = "Скрывает карточку «откройте новые треды».";
+"row.nogroups.title" = "Убрать предложения групп";
+"row.nogroups.desc" = "Скрывает блоки «группы для вступления».";
+"row.feedlike.title" = "Подтверждать «Нравится»";
+"row.feedlike.desc" = "Спрашивает перед отправкой отметки «Нравится».";
+"row.reelslike.title" = "Подтверждать «Нравится» в Reels";
+"row.anonstories.title" = "Смотреть истории анонимно";
+"row.anonstories.desc" = "Смотреть истории без отправки отметки о просмотре.";
+"row.noautonext.title" = "Отключить автопереход";
+"row.nostorypymk.title" = "Скрыть предложения в историях";
+"row.nostorypymk.desc" = "Убирает «возможные друзья» из ленты историй.";
+"row.oled.title" = "Тёмный режим OLED";
+"row.oled.desc" = "Делает всё приложение полностью чёрным.";
+"row.appicon.title" = "Значок приложения";
+"row.appicon.desc" = "Выбрать другой значок приложения.";
+"row.autoclear.title" = "Очищать кэш при запуске";
+"row.clearcache.title" = "Очистить кэш сейчас";
+"row.diagnostics.title" = "Диагностика";
+"row.diagnostics.desc" = "Посмотреть, какие функции активны.";
+"row.welcome.title" = "Показать экран приветствия";
+"row.reset.title" = "Сбросить все настройки";
+"row.language.title" = "Язык";
+"footer.by" = "Facebook Plus · от ";
+"reset.title" = "Сбросить все настройки";
+"reset.message" = "Все параметры вернутся к значениям по умолчанию. Отменить нельзя.";
+"reset.confirm" = "Сбросить";
+"toast.settingsReset" = "Настройки сброшены";
+"toast.cacheCleared" = "Кэш очищен";
+"appicon.default" = "По умолчанию";
+"appicon.applied" = "Значок «%@» применён";
+"appicon.error.unsupported" = "Это приложение не позволяет менять значок.";
+"appicon.error.failed" = "Не удалось изменить значок.";
+"common.cancel" = "Отмена";
+"common.ok" = "OK";

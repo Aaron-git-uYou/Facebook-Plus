@@ -1,0 +1,97 @@
+// Private interfaces of the Facebook iOS app and of UIKit that the hooks bind
+// to, verified against Facebook v570 and v574.
+//
+// Declaring them does not create a link-time dependency; they are resolved
+// through the Objective-C runtime at hook-install time.
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+#pragma mark - Private UIKit
+
+@interface UIResponder (FBPPrivate)
+/// Nearest ancestor view controller. Private UIKit API, not Facebook's.
+- (nullable UIViewController *)_viewControllerForAncestor;
+@end
+
+#pragma mark - Feed
+
+/// FBSharedFramework. Subclass of GQLModel. Every feed unit passes through
+/// -initWithFBPandoTree:.
+@interface FBMemModelObject : NSObject
+- (nullable NSString *)category;
+- (nullable id)sponsoredData;
+- (nullable NSString *)storyBucketType;
+@end
+
+#pragma mark - Stories ("Snacks")
+
+@interface FBSnacksBucketsSeenStateManager : NSObject
+@end
+
+@interface FBSnacksThreadSwitcherViewController : UIViewController
+@end
+
+@interface FBSnacksBucketViewController : UIViewController
+@end
+
+#pragma mark - Reels / Shorts
+
+@interface FBShortsSideBarView : UIView
+@end
+
+@interface CKSurfaceViewControllerImpl : UIViewController
+- (nullable id)viewManager;
+@end
+
+@interface CKSurfaceRootView : UIView
+@end
+
+@interface FBTransparentView : UIView
+@end
+
+#pragma mark - ComponentKit action routing
+
+/// Every ComponentKit-built control event funnels through this one forwarder,
+/// which is what makes it a viable interception point for like confirmation.
+@interface CKComponentActionControlForwarder : NSObject
+- (void)handleControlEventFromSender:(id)sender withEvent:(nullable UIEvent *)event;
+@end
+
+#pragma mark - Chrome
+
+@interface FBTabBarContainerView : UIView
+@end
+
+@interface FBTabBarItemDefaultView : UIView
+@end
+
+@interface FBBaseAppDelegate : UIResponder <UIApplicationDelegate>
+@end
+
+#pragma mark - OLED targets
+//
+// The chrome and feed container views whose background fills the screen. Forcing
+// these to pure black in dark mode is what turns the app AMOLED-black. Each is
+// hooked only when present, so a build that renames one loses only that surface.
+
+@interface FBTabBar : UIView
+@end
+
+@interface FBTabBarAndContentView : UIView
+@end
+
+@interface FBTopBarAndContentView : UIView
+@end
+
+@interface FBMovableNavigationBarView : UIView
+@end
+
+@interface FBNewsFeedView : UIView
+@end
+
+@interface FBNewsFeedCollectionView : UICollectionView
+@end
+
+NS_ASSUME_NONNULL_END

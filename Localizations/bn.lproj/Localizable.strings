@@ -1,0 +1,46 @@
+/* Facebook Plus — বাংলা. Auto-generated from test/gen_strings.py.
+   Keep translations in sync via that script; keys match every other .lproj. */
+
+"settings.subtitle" = "টুইক পছন্দসমূহ";
+"row.metaplus.title" = "Facebook Plus চালু করুন";
+"row.metaplus.desc" = "সাবস্ক্রাইব ছাড়াই সব পেইড ফিচার প্রিভিউ করুন।";
+"row.noads.title" = "বিজ্ঞাপন সরান";
+"row.norecs.title" = "সুপারিশ সরান";
+"row.norecs.desc" = "অ্যালগরিদমে সাজেস্ট করা পোস্ট লুকায়।";
+"row.nopymk.title" = "«আপনি চিনতে পারেন» সরান";
+"row.noreels.title" = "Reels ক্যারোসেল সরান";
+"row.nothreads.title" = "Threads প্রোমো সরান";
+"row.nothreads.desc" = "«নতুন threads আবিষ্কার করুন» কার্ড লুকায়।";
+"row.nogroups.title" = "গ্রুপ সাজেশন সরান";
+"row.nogroups.desc" = "«যে গ্রুপে যোগ দিতে পারেন» অংশ লুকায়।";
+"row.feedlike.title" = "পোস্ট লাইক নিশ্চিত করুন";
+"row.feedlike.desc" = "লাইক পাঠানোর আগে জিজ্ঞাসা করে।";
+"row.reelslike.title" = "Reels লাইক নিশ্চিত করুন";
+"row.anonstories.title" = "স্টোরি বেনামে দেখুন";
+"row.anonstories.desc" = "পড়ার রসিদ না পাঠিয়ে স্টোরি দেখুন।";
+"row.noautonext.title" = "অটো-এগিয়ে যাওয়া বন্ধ করুন";
+"row.nostorypymk.title" = "স্টোরি সাজেশন লুকান";
+"row.nostorypymk.desc" = "স্টোরি ট্রে থেকে «আপনি চিনতে পারেন» সরায়।";
+"row.oled.title" = "OLED ডার্ক মোড";
+"row.oled.desc" = "পুরো অ্যাপকে খাঁটি কালো করে।";
+"row.appicon.title" = "অ্যাপ আইকন";
+"row.appicon.desc" = "বিকল্প একটি অ্যাপ আইকন বেছে নিন।";
+"row.autoclear.title" = "চালু হলে ক্যাশ পরিষ্কার করুন";
+"row.clearcache.title" = "এখনই ক্যাশ পরিষ্কার করুন";
+"row.diagnostics.title" = "ডায়াগনস্টিকস";
+"row.diagnostics.desc" = "কোন ফিচারগুলো সক্রিয় দেখুন।";
+"row.welcome.title" = "স্বাগত স্ক্রিন দেখান";
+"row.reset.title" = "সব সেটিং রিসেট করুন";
+"row.language.title" = "ভাষা";
+"footer.by" = "Facebook Plus · তৈরি করেছেন ";
+"reset.title" = "সব সেটিং রিসেট করুন";
+"reset.message" = "প্রতিটি অপশন ডিফল্টে ফিরে যাবে। এটি আর ফেরানো যাবে না।";
+"reset.confirm" = "রিসেট";
+"toast.settingsReset" = "সেটিং রিসেট হয়েছে";
+"toast.cacheCleared" = "ক্যাশ পরিষ্কার হয়েছে";
+"appicon.default" = "ডিফল্ট";
+"appicon.applied" = "%@ আইকন প্রয়োগ হয়েছে";
+"appicon.error.unsupported" = "এই অ্যাপ আইকন পরিবর্তনের অনুমতি দেয় না।";
+"appicon.error.failed" = "আইকন পরিবর্তন করা যায়নি।";
+"common.cancel" = "বাতিল";
+"common.ok" = "ঠিক আছে";

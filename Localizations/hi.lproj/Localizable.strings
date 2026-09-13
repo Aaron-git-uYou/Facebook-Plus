@@ -1,0 +1,46 @@
+/* Facebook Plus — हिन्दी. Auto-generated from test/gen_strings.py.
+   Keep translations in sync via that script; keys match every other .lproj. */
+
+"settings.subtitle" = "ट्वीक प्राथमिकताएँ";
+"row.metaplus.title" = "Facebook Plus चालू करें";
+"row.metaplus.desc" = "बिना सदस्यता के हर सशुल्क सुविधा देखें।";
+"row.noads.title" = "विज्ञापन हटाएँ";
+"row.norecs.title" = "सुझाव हटाएँ";
+"row.norecs.desc" = "एल्गोरिद्म द्वारा सुझाई गई पोस्ट छिपाता है।";
+"row.nopymk.title" = "«जिन्हें आप जानते होंगे» हटाएँ";
+"row.noreels.title" = "Reels कैरोसेल हटाएँ";
+"row.nothreads.title" = "Threads प्रचार हटाएँ";
+"row.nothreads.desc" = "«नए threads खोजें» कार्ड छिपाता है।";
+"row.nogroups.title" = "समूह सुझाव हटाएँ";
+"row.nogroups.desc" = "«जिन समूहों से जुड़ें» ब्लॉक छिपाता है।";
+"row.feedlike.title" = "पोस्ट लाइक की पुष्टि करें";
+"row.feedlike.desc" = "लाइक भेजने से पहले पूछता है।";
+"row.reelslike.title" = "Reels लाइक की पुष्टि करें";
+"row.anonstories.title" = "स्टोरी गुमनाम रूप से देखें";
+"row.anonstories.desc" = "पढ़े जाने की सूचना भेजे बिना स्टोरी देखें।";
+"row.noautonext.title" = "ऑटो-आगे बढ़ना बंद करें";
+"row.nostorypymk.title" = "स्टोरी सुझाव छिपाएँ";
+"row.nostorypymk.desc" = "स्टोरी ट्रे से «जिन्हें आप जानते होंगे» हटाता है।";
+"row.oled.title" = "OLED डार्क मोड";
+"row.oled.desc" = "पूरे ऐप को असली काला बनाता है।";
+"row.appicon.title" = "ऐप आइकन";
+"row.appicon.desc" = "कोई वैकल्पिक ऐप आइकन चुनें।";
+"row.autoclear.title" = "शुरू होने पर कैश साफ़ करें";
+"row.clearcache.title" = "अभी कैश साफ़ करें";
+"row.diagnostics.title" = "डायग्नोस्टिक्स";
+"row.diagnostics.desc" = "देखें कौन-सी सुविधाएँ सक्रिय हैं।";
+"row.welcome.title" = "स्वागत स्क्रीन दिखाएँ";
+"row.reset.title" = "सभी सेटिंग रीसेट करें";
+"row.language.title" = "भाषा";
+"footer.by" = "Facebook Plus · द्वारा ";
+"reset.title" = "सभी सेटिंग रीसेट करें";
+"reset.message" = "हर विकल्प अपने डिफ़ॉल्ट पर लौट आएगा। इसे पूर्ववत नहीं किया जा सकता।";
+"reset.confirm" = "रीसेट करें";
+"toast.settingsReset" = "सेटिंग रीसेट हो गईं";
+"toast.cacheCleared" = "कैश साफ़ हो गया";
+"appicon.default" = "डिफ़ॉल्ट";
+"appicon.applied" = "%@ आइकन लागू किया गया";
+"appicon.error.unsupported" = "यह ऐप अपना आइकन बदलने की अनुमति नहीं देता।";
+"appicon.error.failed" = "आइकन नहीं बदला जा सका।";
+"common.cancel" = "रद्द करें";
+"common.ok" = "ठीक है";
